@@ -1,0 +1,64 @@
+b {
+
+}
+
+hr {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0px;
+    height: 3px;
+    background-color: black;
+}
+
+.cls-body {
+	width: 60%;
+	position: relative;
+	float: left;
+}
+
+.cls-left30 {
+	width: 28%;
+	position: relative;
+	height: auto;
+	float: left;
+	/*background: red;*/
+	margin: 5px;
+}
+
+.cls-right70 {
+	width: 69%;
+	height: auto;
+	position: relative;
+	float: left;
+	/*background: yellow;*/
+	margin: 5px;
+}
+
+.cls-left50 {
+	width: 48%;
+	height: auto;
+	position: relative;
+	float: left;
+	/*background: green;*/
+	margin: 5px;
+}
+
+.cls-g {
+	width: 98%;
+	margin: 5px;
+	/*box-shadow: 0px 0px 1px 0px black;*/
+	height: auto;
+	/*background-color: blue;*/
+	position: relative;
+	float: left;
+}
+
+.cls-border-title {
+	width: auto;
+	margin: auto;
+	border-style: solid;
+	/*float: left;
+	left: -50%;*/
+}
